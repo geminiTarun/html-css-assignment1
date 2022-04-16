@@ -1,0 +1,143 @@
+body{
+    background-color: aqua;
+}
+h3{
+    text-align: center;
+    padding: 4%;
+    font-size: 25px;
+    border: 3px;
+    border-style: double;
+    border-color: black;
+    padding: 1em;
+    width: 800px;
+    margin: left 10px;
+    
+}
+label{
+    width: 240px;
+   display: inline-table;
+    
+}
+.fname{
+    margin-left: 30px;
+}
+.tfname{
+    margin-left: 40px;
+}
+.faname{
+    margin-left: 30px;
+}
+.tfaname{
+    margin-left: 40px;
+}
+.moname{
+    margin-left: 30px;
+}
+.tmoname{
+    margin-left: 40px;
+}
+.phone{
+    margin-left: 30px;
+}
+.tphone{
+    margin-left: 40px;
+}
+.email{
+    margin-left: 30px;
+}
+.temail{
+    margin-left: 40px;
+}
+.gender{
+    margin-left: 30px;
+}
+.tmale{
+    margin-left: 40px;
+}
+.tfemale{
+    margin-left: -180px;
+}
+.tother{
+    margin-left: -180px;
+}
+.dob{
+    margin-left: 30px;
+}
+.date{
+    margin-left: 40px;
+}
+.month{
+    margin-left: -230px;
+}
+.year{
+    margin-left: -235px;
+}
+.add{
+    margin-left: 30px;
+}
+.tadd{
+    margin-left: 40px;
+}
+.blood{
+    margin-left: 30px;
+}
+.bcheck{
+    margin-left: 40px;
+}
+.hobb{
+    margin-left: 30px;
+}
+.play{
+    margin-left: 40px;
+}
+.paint{
+    margin-left: -180px;
+}
+.dance{
+    margin-left: -180px;
+}
+.dep{
+    margin-left: 30px;
+}
+.tcs{
+    margin-left: 40px;
+}
+.teee{
+    margin-left: -200px;
+}
+.tbba{
+    margin-left: -200px;
+}
+.photo{
+    margin-left: 30px;
+}
+.choose{
+    margin-left: 40px;
+}
+.sub{
+    margin-left: 200px;
+}
+.re{
+    margin-left: 150px;
+}
+.course{
+    margin-left: 30px;
+}
+.c{
+    margin-left: 40px;
+}
+.plus{
+    margin-left: -200px;
+}
+.java{
+    margin-left: -190px;
+}
+.ai{
+    margin-left: -200px;
+}
+.ml{
+    margin-left: -200px;
+}
+.rob{
+    margin-left: -110px;
+}
